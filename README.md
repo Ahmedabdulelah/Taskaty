@@ -13,21 +13,22 @@ Taskaty helps you add, list, check, and remove tasks easily using the terminal.
 
 ## Installation ⚙️
 
-Clone the repository:
+### Clone the repository:
 ```bash
 git clone https://github.com/yourusername/taskaty.git
 cd taskaty
-
-Create a virtual environment (optional but recommended):
+```
+### Create a virtual environment:
+```bash
 python -m venv env
 source env/bin/activate   # On Linux/Mac
 env\Scripts\activate      # On Windows
-
-Install Taskaty locally:
-
-pip install -e .
 ```
 
+### Install Taskaty locally:
+```bash
+pip install -e .
+```
 
 ## Usage 💡:
 ### Add a task
