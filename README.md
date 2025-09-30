@@ -26,9 +26,10 @@ env\Scripts\activate      # On Windows
 Install Taskaty locally:
 
 pip install -e .
+```bash
 
 
-## **Usage 💡**
+## Usage 💡:
 Add a task
 taskaty add "Study Python" -d "Finish Project" -e 2025-10-05
 
