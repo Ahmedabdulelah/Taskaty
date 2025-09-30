@@ -27,9 +27,10 @@ Install Taskaty locally:
 
 pip install -e .
 
-## Usage 💡
+
+## **Usage 💡**
 Add a task
-taskaty add "Study Python" -d "Finish argparse section" -e 2025-10-05
+taskaty add "Study Python" -d "Finish Project" -e 2025-10-05
 
 List unfinished tasks
 taskaty list
