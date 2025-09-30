@@ -48,6 +48,9 @@ taskaty remove -t 2
 ### Reset (delete all tasks)
 taskaty reset
 
-### Example Output 📋
-No  Title         Description              Start Date   End Date   Due Date     Done
-1   Study Python  Finish argparse section  2025-09-29  2025-10-05  6 days left  False
+## Example Output 📋
+
+| No | Title        | Description             | Start Date | End Date   | Due Date     | Done  |
+|----|--------------|------------------------|------------|------------|--------------|-------|
+| 1  | Study Python | Finish argparse section | 2025-09-29 | 2025-10-05 | 6 days left  | False |
+
