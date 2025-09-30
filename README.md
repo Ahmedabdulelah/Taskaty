@@ -26,28 +26,28 @@ env\Scripts\activate      # On Windows
 Install Taskaty locally:
 
 pip install -e .
-```bash
+```
 
 
 ## Usage 💡:
-Add a task
+### Add a task
 taskaty add "Study Python" -d "Finish Project" -e 2025-10-05
 
-List unfinished tasks
+### List unfinished tasks
 taskaty list
 
-List all tasks
+### List all tasks
 taskaty list -a
 
-Mark a task as done
+### Mark a task as done
 taskaty check -t 1
 
-Remove a task
+### Remove a task
 taskaty remove -t 2
 
-Reset (delete all tasks)
+### Reset (delete all tasks)
 taskaty reset
 
-Example Output 📋
+### Example Output 📋
 No  Title         Description              Start Date   End Date   Due Date     Done
 1   Study Python  Finish argparse section  2025-09-29  2025-10-05  6 days left  False
